@@ -25,10 +25,8 @@ f1tenth_controller/
 ├── setup.cfg
 ├── setup.py
 ```
-Parte 2: Nodo Controlador — `follow_the_gap.py`
 
-```markdown
-## 📥 Nodo Controlador — `follow_the_gap.py`
+Parte 2: 📥 Nodo Controlador — `follow_the_gap.py`
 
 Creamos el archivo del nodo controlador:
 
