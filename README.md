@@ -41,10 +41,7 @@ Este nodo implementa el algoritmo Follow the Gap para controlar el vehículo F1T
 * Se suscribe al tópico /scan para recibir datos del LIDAR.
 * Procesa los datos para detectar obstáculos y paredes.
 * Identifica los "gaps" (espacios libres) más amplios en el campo de visión del vehículo.
-* Selecciona el mejor gap basado en:
-      *Ancho del gap
-      *Distancia al obstáculo más cercano
-      *Proximidad al centro de la trayectoria
+* Selecciona el mejor gap basado en: Ancho del gap, Distancia al obstáculo más cercano, Proximidad al centro de la trayectoria
 * Calcula el ángulo de dirección y la velocidad adecuados.
 * Publica comandos de control en el tópico /drive usando el mensaje AckermannDriveStamped.
 * Implementa filtros de suavizado para evitar movimientos bruscos.
