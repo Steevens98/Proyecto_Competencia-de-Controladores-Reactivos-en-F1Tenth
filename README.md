@@ -844,3 +844,4 @@ ros2 launch f1tenth_gym_ros gym_bridge_launch.py
 ⚠️ Nota : Tener instalado el simulador, sino instalarlo : https://github.com/widegonz/F1Tenth-Repository
 
 ## 🎬 Parte 6: Video de evidencia del programa
+[Ver video de ejecución](./videos/Ejecucion_Proyecto.mp4)
